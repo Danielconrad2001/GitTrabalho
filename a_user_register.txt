@@ -1,6 +1,2 @@
-vinicius,123456,@aaaaaaaa,15157477007,1000
 
-maria,123456,maria@maria,27444017069,1000
-
-ajsdoifjaosdif,123456,jsoidfjaiosdjfaoi@,75078387064,1000
-
+teste,123456,teste@teste,09388028015,1000
